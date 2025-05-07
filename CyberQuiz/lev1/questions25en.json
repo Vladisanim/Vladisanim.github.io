@@ -1,0 +1,510 @@
+{
+    "c2array": true,
+    "size": [
+        25,
+        6,
+        1
+    ],
+    "data": [
+        [
+            [
+                "Which animal does not appear in the Chinese zodiac?"
+            ],
+            [
+                "Dragon"
+            ],
+            [
+                "Rabbit"
+            ],
+            [
+                "Dog"
+            ],
+            [
+                "Hummingbird"
+            ],
+            [
+                "Hummingbird"
+            ]
+        ],
+        [
+            [
+                "Which country in the world is the most populous?"
+            ],
+            [
+                "Russia"
+            ],
+            [
+                "USA"
+            ],
+            [
+                "India"
+            ],
+            [
+                "China"
+            ],
+            [
+                "China"
+            ]
+        ],
+        [
+            [
+                "Which planet is the hottest?"
+            ],
+            [
+                "Venus"
+            ],
+            [
+                "Saturn"
+            ],
+            [
+                "Mercury"
+            ],
+            [
+                "Mars"
+            ],
+            [
+                "Venus"
+            ]
+        ],
+        [
+            [
+                "What was the name of Captain Jack Sparrow's ship in Pirates of the Caribbean?"
+            ],
+            [
+                "The Marauder"
+            ],
+            [
+                "The Black Pearl"
+            ],
+            [
+                "The Black Python"
+            ],
+            [
+                "Slytherin"
+            ],
+            [
+                "The Black Pearl"
+            ]
+        ],
+        [
+            [
+                "How many edges does a cube have?"
+            ],
+            [
+                6
+            ],
+            [
+                8
+            ],
+            [
+                10
+            ],
+            [
+                12
+            ],
+            [
+                12
+            ]
+        ],
+        [
+            [
+                "What is the color of the Himalayan poppy?"
+            ],
+            [
+                "Red"
+            ],
+            [
+                "Blue"
+            ],
+            [
+                "Yellow"
+            ],
+            [
+                "White"
+            ],
+            [
+                "Blue"
+            ]
+        ],
+        [
+            [
+                "What is the rarest blood type?"
+            ],
+            [
+                "I group"
+            ],
+            [
+                "II group"
+            ],
+            [
+                "III group"
+            ],
+            [
+                "IV group"
+            ],
+            [
+                "I group"
+            ]
+        ],
+        [
+            [
+                "Who invented television?"
+            ],
+            [
+                "Masaru Ibuka"
+            ],
+            [
+                "John Logie Baird"
+            ],
+            [
+                "Nate clicks"
+            ],
+            [
+                "Albert Einstein"
+            ],
+            [
+                "John Logie Baird"
+            ]
+        ],
+        [
+            [
+                "Which country presented the Statue of Liberty to the United States?"
+            ],
+            [
+                "Canada"
+            ],
+            [
+                "England"
+            ],
+            [
+                "France"
+            ],
+            [
+                "Brazil"
+            ],
+            [
+                "France"
+            ]
+        ],
+        [
+            [
+                "What metal makes the strongest magnets?"
+            ],
+            [
+                "Iron"
+            ],
+            [
+                "Brass"
+            ],
+            [
+                "Copper"
+            ],
+            [
+                "Stainless steel"
+            ],
+            [
+                "Iron"
+            ]
+        ],
+        [
+            [
+                "Which of the following words is probably the most widely used in English worldwide?"
+            ],
+            [
+                "Movie"
+            ],
+            [
+                "Dollar"
+            ],
+            [
+                "The Internet"
+            ],
+            [
+                "Okay"
+            ],
+            [
+                "Okay"
+            ]
+        ],
+        [
+            [
+                "How many bones are there in the human body?"
+            ],
+            [
+                206
+            ],
+            [
+                205
+            ],
+            [
+                201
+            ],
+            [
+                209
+            ],
+            [
+                206
+            ]
+        ],
+        [
+            [
+                "What important city fell in 1453?"
+            ],
+            [
+                "Constantinople"
+            ],
+            [
+                "Rome"
+            ],
+            [
+                "Hamburg"
+            ],
+            [
+                "Athens"
+            ],
+            [
+                "Constantinople"
+            ]
+        ],
+        [
+            [
+                "Fe is a symbol of which chemical element ?"
+            ],
+            [
+                "Zinc"
+            ],
+            [
+                "Hydrogen"
+            ],
+            [
+                "Fluorine"
+            ],
+            [
+                "Iron"
+            ],
+            [
+                "Iron"
+            ]
+        ],
+        [
+            [
+                "Which popular first-person shooter (FPS) franchise has developed a real-time strategy (RTS) based on its universe?"
+            ],
+            [
+                "Halo"
+            ],
+            [
+                "Battlefield"
+            ],
+            [
+                "Call of Duty"
+            ],
+            [
+                "Borderlands"
+            ],
+            [
+                "Halo"
+            ]
+        ],
+        [
+            [
+                "What is Shakespeare's shortest tragedy?"
+            ],
+            [
+                "Macbeth"
+            ],
+            [
+                "Hamlet"
+            ],
+            [
+                "Romeo and Juliet"
+            ],
+            [
+                "Othello"
+            ],
+            [
+                "Macbeth"
+            ]
+        ],
+        [
+            [
+                "Which social network appeared in 2003?"
+            ],
+            [
+                "Myspace"
+            ],
+            [
+                "Twitter"
+            ],
+            [
+                "Facebook"
+            ],
+            [
+                "ВКонтакте"
+            ],
+            [
+                "Myspace"
+            ]
+        ],
+        [
+            [
+                "How many planets are there in our Solar system?"
+            ],
+            [
+                "Eight"
+            ],
+            [
+                "Nine"
+            ],
+            [
+                "Seven"
+            ],
+            [
+                "Ten"
+            ],
+            [
+                "Eight"
+            ]
+        ],
+        [
+            [
+                "Which planet is the largest in our solar system?"
+            ],
+            [
+                "Saturn"
+            ],
+            [
+                "Neptune"
+            ],
+            [
+                "Jupiter"
+            ],
+            [
+                "Earth"
+            ],
+            [
+                "Jupiter"
+            ]
+        ],
+        [
+            [
+                "Who was the king of the gods in ancient Greek mythology?"
+            ],
+            [
+                "Zeus"
+            ],
+            [
+                "Apollonian"
+            ],
+            [
+                "Hermes"
+            ],
+            [
+                "Poseidon"
+            ],
+            [
+                "Zeus"
+            ]
+        ],
+        [
+            [
+                "Who plays Alice in the Resident Evil movies?"
+            ],
+            [
+                "Mila Jovovich"
+            ],
+            [
+                "Madison Derpy"
+            ],
+            [
+                "Mila Johnson"
+            ],
+            [
+                "Kim Demp"
+            ],
+            [
+                "Mila Jovovich"
+            ]
+        ],
+        [
+            [
+                "Who painted the Mona Lisa?"
+            ],
+            [
+                "Vincent Van Gogh"
+            ],
+            [
+                "Claude Monet"
+            ],
+            [
+                "Pablo Picasso"
+            ],
+            [
+                "Leonardo da Vinci"
+            ],
+            [
+                "Leonardo da Vinci"
+            ]
+        ],
+        [
+            [
+                "What else do we call sodium chloride?"
+            ],
+            [
+                "Salt"
+            ],
+            [
+                "Bleach"
+            ],
+            [
+                "Chlorine"
+            ],
+            [
+                "Sugar"
+            ],
+            [
+                "Salt"
+            ]
+        ],
+        [
+            [
+                "Which city is known as the City of Love?"
+            ],
+            [
+                "Rome"
+            ],
+            [
+                "Paris"
+            ],
+            [
+                "New York"
+            ],
+            [
+                "Barcelona"
+            ],
+            [
+                "Paris"
+            ]
+        ],
+        [
+            [
+                "How many sides does a heptagon have?"
+            ],
+            [
+                17
+            ],
+            [
+                5
+            ],
+            [
+                7
+            ],
+            [
+                10
+            ],
+            [
+                7
+            ]
+        ]
+    ]
+}

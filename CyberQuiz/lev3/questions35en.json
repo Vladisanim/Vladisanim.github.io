@@ -1,0 +1,710 @@
+{
+    "c2array": true,
+    "size": [
+        35,
+        6,
+        1
+    ],
+    "data": [
+        [
+            [
+                "How many times per second do honey bees flap their wings?"
+            ],
+            [
+                53
+            ],
+            [
+                134
+            ],
+            [
+                241
+            ],
+            [
+                230
+            ],
+            [
+                230
+            ]
+        ],
+        [
+            [
+                "What is the color of the sunset on Mars?"
+            ],
+            [
+                "Pink"
+            ],
+            [
+                "Yellow"
+            ],
+            [
+                "Blue"
+            ],
+            [
+                "Red"
+            ],
+            [
+                "Blue"
+            ]
+        ],
+        [
+            [
+                "Which part of the body has no blood supply?"
+            ],
+            [
+                "Lungs"
+            ],
+            [
+                "The cornea"
+            ],
+            [
+                "The pancreas"
+            ],
+            [
+                "Muscles"
+            ],
+            [
+                "The cornea"
+            ]
+        ],
+        [
+            [
+                "How many months will it take for the nail to grow from the base to the tip after complete removal?"
+            ],
+            [
+                "6 months"
+            ],
+            [
+                "4 months"
+            ],
+            [
+                "9 months"
+            ],
+            [
+                "8 months"
+            ],
+            [
+                "6 months"
+            ]
+        ],
+        [
+            [
+                "What is the name of the little piece of plastic at the end of the shoelace?"
+            ],
+            [
+                "Line"
+            ],
+            [
+                "Case"
+            ],
+            [
+                "Lace"
+            ],
+            [
+                "Aglet"
+            ],
+            [
+                "Aglet"
+            ]
+        ],
+        [
+            [
+                "How long does an instant last?"
+            ],
+            [
+                "120 seconds"
+            ],
+            [
+                "60 seconds"
+            ],
+            [
+                "90 seconds"
+            ],
+            [
+                "180 seconds"
+            ],
+            [
+                "90 seconds"
+            ]
+        ],
+        [
+            [
+                "Which was the first toy that was advertised on television?"
+            ],
+            [
+                "Barbie"
+            ],
+            [
+                "Mr. Potato Head"
+            ],
+            [
+                "Oven with Light Baking"
+            ],
+            [
+                "Rocket Racer"
+            ],
+            [
+                "Mr. Potato Head"
+            ]
+        ],
+        [
+            [
+                "In which country is Prague located?"
+            ],
+            [
+                "Spain"
+            ],
+            [
+                "Brazil"
+            ],
+            [
+                "England"
+            ],
+            [
+                "Czech"
+            ],
+            [
+                "Czech"
+            ]
+        ],
+        [
+            [
+                "Which email service does Microsoft own?"
+            ],
+            [
+                "Outlook"
+            ],
+            [
+                "Yahoo Mail"
+            ],
+            [
+                "Gmail"
+            ],
+            [
+                "iCloud Mail"
+            ],
+            [
+                "Outlook"
+            ]
+        ],
+        [
+            [
+                "What was the name of the Snickers bar before its name change in 1990?"
+            ],
+            [
+                "Marathon"
+            ],
+            [
+                "Sprint"
+            ],
+            [
+                "Smile"
+            ],
+            [
+                "Race"
+            ],
+            [
+                "Marathon"
+            ]
+        ],
+        [
+            [
+                "How many taste buds does the average human tongue have?"
+            ],
+            [
+                100
+            ],
+            [
+                "1,000"
+            ],
+            [
+                "10,000"
+            ],
+            [
+                "100,000"
+            ],
+            [
+                "10,000"
+            ]
+        ],
+        [
+            [
+                "What was the first animated feature film?"
+            ],
+            [
+                "Snow White and the Seven Dwarfs"
+            ],
+            [
+                "Cinderella"
+            ],
+            [
+                "Mermaid"
+            ],
+            [
+                "Pocahontas"
+            ],
+            [
+                "Snow White and the Seven Dwarfs"
+            ]
+        ],
+        [
+            [
+                "What color was the pill that Neo takes in the movie “The Matrix\"?"
+            ],
+            [
+                "Blue"
+            ],
+            [
+                "Red"
+            ],
+            [
+                "Green"
+            ],
+            [
+                "Yellow"
+            ],
+            [
+                "Red"
+            ]
+        ],
+        [
+            [
+                "What kind of animals raised Mowgli in the “Jungle Book\"?"
+            ],
+            [
+                "Foxes"
+            ],
+            [
+                "Primates"
+            ],
+            [
+                "Wolves"
+            ],
+            [
+                "Bears"
+            ],
+            [
+                "Wolves"
+            ]
+        ],
+        [
+            [
+                "Which film written, directed and produced by James Cameron became the highest-grossing film of its time?"
+            ],
+            [
+                "True lies"
+            ],
+            [
+                "The Terminator"
+            ],
+            [
+                "Avatar"
+            ],
+            [
+                "Titanic"
+            ],
+            [
+                "Titanic"
+            ]
+        ],
+        [
+            [
+                "What is Canada's national sport?"
+            ],
+            [
+                "Lacrosse"
+            ],
+            [
+                "Football"
+            ],
+            [
+                "Bowling"
+            ],
+            [
+                "Basketball"
+            ],
+            [
+                "Lacrosse"
+            ]
+        ],
+        [
+            [
+                "Which boxer was known as “The Greatest” and “The People's Champion\"?"
+            ],
+            [
+                "Mike Tyson"
+            ],
+            [
+                "Muhammad Ali"
+            ],
+            [
+                "Floyd Mayweather"
+            ],
+            [
+                "Oscar Dela Hoya"
+            ],
+            [
+                "Muhammad Ali"
+            ]
+        ],
+        [
+            [
+                "Which country hosted the first Olympic Games?"
+            ],
+            [
+                "Italy"
+            ],
+            [
+                "Japan"
+            ],
+            [
+                "France"
+            ],
+            [
+                "Greece"
+            ],
+            [
+                "Greece"
+            ]
+        ],
+        [
+            [
+                "How many players are on a baseball team?"
+            ],
+            [
+                "8 players"
+            ],
+            [
+                "9 players"
+            ],
+            [
+                "10 players"
+            ],
+            [
+                "11 players"
+            ],
+            [
+                "9 players"
+            ]
+        ],
+        [
+            [
+                "Which is the only country that has participated in all the FIFA World Cups?"
+            ],
+            [
+                "Brazil"
+            ],
+            [
+                "Argentina"
+            ],
+            [
+                "Spain"
+            ],
+            [
+                "England"
+            ],
+            [
+                "Brazil"
+            ]
+        ],
+        [
+            [
+                "How many colors are there in a rainbow?"
+            ],
+            [
+                6
+            ],
+            [
+                7
+            ],
+            [
+                4
+            ],
+            [
+                5
+            ],
+            [
+                7
+            ]
+        ],
+        [
+            [
+                "How many manned moon landings have there been?"
+            ],
+            [
+                "Five"
+            ],
+            [
+                "Six"
+            ],
+            [
+                "Seven"
+            ],
+            [
+                "Eight"
+            ],
+            [
+                "Six"
+            ]
+        ],
+        [
+            [
+                "When did the Berlin Wall fall?"
+            ],
+            [
+                1988
+            ],
+            [
+                1989
+            ],
+            [
+                1990
+            ],
+            [
+                1991
+            ],
+            [
+                1989
+            ]
+        ],
+        [
+            [
+                "Which country is the smallest in the world?"
+            ],
+            [
+                "The Vatican"
+            ],
+            [
+                "Malta"
+            ],
+            [
+                "Maldives"
+            ],
+            [
+                "Monaco"
+            ],
+            [
+                "The Vatican"
+            ]
+        ],
+        [
+            [
+                "Which natural disaster is measured on the Richter scale?"
+            ],
+            [
+                "Tornado"
+            ],
+            [
+                "Floods"
+            ],
+            [
+                "Hurricane"
+            ],
+            [
+                "Earthquakes"
+            ],
+            [
+                "Earthquakes"
+            ]
+        ],
+        [
+            [
+                "Which planet is closest to the Sun?"
+            ],
+            [
+                "Earth"
+            ],
+            [
+                "Mars"
+            ],
+            [
+                "Mercury"
+            ],
+            [
+                "Venus"
+            ],
+            [
+                "Mercury"
+            ]
+        ],
+        [
+            [
+                "What kind of substance are nails made of?"
+            ],
+            [
+                "Keratin"
+            ],
+            [
+                "Serotonin"
+            ],
+            [
+                "The epidermis"
+            ],
+            [
+                "Melanin"
+            ],
+            [
+                "Keratin"
+            ]
+        ],
+        [
+            [
+                "What does the term DNA mean?"
+            ],
+            [
+                "Deoxyribonucleic acid"
+            ],
+            [
+                "Duo ribonucleic acid"
+            ],
+            [
+                "Deoxyribonucleic acid"
+            ],
+            [
+                "Deoxyribonucleic acid"
+            ],
+            [
+                "Duo ribonucleic acid"
+            ]
+        ],
+        [
+            [
+                "Who was the first person to see the moons of Jupiter?"
+            ],
+            [
+                "Galileo Galilei"
+            ],
+            [
+                "Albert Einstein"
+            ],
+            [
+                "Isaac Newton"
+            ],
+            [
+                "Nicolaus Copernicus"
+            ],
+            [
+                "Galileo Galilei"
+            ]
+        ],
+        [
+            [
+                "\"K\" is the chemical symbol of which element?"
+            ],
+            [
+                "Chrome"
+            ],
+            [
+                "Titanium"
+            ],
+            [
+                "Hydrogen"
+            ],
+            [
+                "Potassium"
+            ],
+            [
+                "Potassium"
+            ]
+        ],
+        [
+            [
+                "What kind of animal is a killer whale?"
+            ],
+            [
+                "Seal"
+            ],
+            [
+                "Octopus"
+            ],
+            [
+                "Whale"
+            ],
+            [
+                "Shark"
+            ],
+            [
+                "Whale"
+            ]
+        ],
+        [
+            [
+                "What country is Shakira from?"
+            ],
+            [
+                "Colombia"
+            ],
+            [
+                "Argentina"
+            ],
+            [
+                "Brazil"
+            ],
+            [
+                "Spain"
+            ],
+            [
+                "Colombia"
+            ]
+        ],
+        [
+            [
+                "Which country is the most earthquake-prone country in the world?"
+            ],
+            [
+                "Malaysia"
+            ],
+            [
+                "Japan"
+            ],
+            [
+                "Korea"
+            ],
+            [
+                "Taiwan"
+            ],
+            [
+                "Japan"
+            ]
+        ],
+        [
+            [
+                "Which is the only country bordering the UK?"
+            ],
+            [
+                "Sweden"
+            ],
+            [
+                "Irish"
+            ],
+            [
+                "Germany"
+            ],
+            [
+                "Austria"
+            ],
+            [
+                "Irish"
+            ]
+        ],
+        [
+            [
+                "What is the largest island in the world?"
+            ],
+            [
+                "Iceland"
+            ],
+            [
+                "Finland"
+            ],
+            [
+                "Greenland"
+            ],
+            [
+                "Irish"
+            ],
+            [
+                "Greenland"
+            ]
+        ]
+    ]
+}

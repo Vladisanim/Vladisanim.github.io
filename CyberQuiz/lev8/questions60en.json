@@ -1,0 +1,1210 @@
+{
+    "c2array": true,
+    "size": [
+        60,
+        6,
+        1
+    ],
+    "data": [
+        [
+            [
+                "Which movie is Prince Charming from?"
+            ],
+            [
+                "Cinderella"
+            ],
+            [
+                "Mermaid"
+            ],
+            [
+                "Sleeping Beauty"
+            ],
+            [
+                "Mulan"
+            ],
+            [
+                "Cinderella"
+            ]
+        ],
+        [
+            [
+                "What country is Justin Bieber from?"
+            ],
+            [
+                "Canada"
+            ],
+            [
+                "USA"
+            ],
+            [
+                "France"
+            ],
+            [
+                "England"
+            ],
+            [
+                "Canada"
+            ]
+        ],
+        [
+            [
+                "Which holiday movie sequel did Donald Trump star in?"
+            ],
+            [
+                "Home alone"
+            ],
+            [
+                "Home Alone 2: Lost in New York"
+            ],
+            [
+                "Richie Rich"
+            ],
+            [
+                "The Little Rascals"
+            ],
+            [
+                "Home Alone 2: Lost in New York"
+            ]
+        ],
+        [
+            [
+                "Which cartoon character lives in a pineapple underwater?"
+            ],
+            [
+                "Flounder"
+            ],
+            [
+                "Nemo"
+            ],
+            [
+                "Rick and Morty"
+            ],
+            [
+                "SpongeBob SquarePants"
+            ],
+            [
+                "SpongeBob SquarePants"
+            ]
+        ],
+        [
+            [
+                "What is the national animal of Scotland?"
+            ],
+            [
+                "Horse"
+            ],
+            [
+                "Unicorn"
+            ],
+            [
+                "Wolf"
+            ],
+            [
+                "Cow"
+            ],
+            [
+                "Unicorn"
+            ]
+        ],
+        [
+            [
+                "Which famous novel featured Joe, Meg, Beth, and Amy March?"
+            ],
+            [
+                "To kill a Mockingbird"
+            ],
+            [
+                "Tom Sawyer"
+            ],
+            [
+                "Little women"
+            ],
+            [
+                "Moby Dick"
+            ],
+            [
+                "Little Women"
+            ]
+        ],
+        [
+            [
+                "Which country produces the most coffee in the world?"
+            ],
+            [
+                "Colombia"
+            ],
+            [
+                "Indonesia"
+            ],
+            [
+                "Brazil"
+            ],
+            [
+                "Vietnam"
+            ],
+            [
+                "Brazil"
+            ]
+        ],
+        [
+            [
+                "What are the names of the four Houses of Hogwarts?"
+            ],
+            [
+                "Gryffindor, Hufflepuff, Ravenclaw and Slytherin"
+            ],
+            [
+                "Griffin, Raven, Elephant and Snake"
+            ],
+            [
+                "North, East, West and South"
+            ],
+            [
+                "Red, Blue, Green and Orange"
+            ],
+            [
+                "Gryffindor, Hufflepuff, Ravenclaw and Slytherin"
+            ]
+        ],
+        [
+            [
+                "Which animal is known as the largest mammal on Earth?"
+            ],
+            [
+                "Elephant"
+            ],
+            [
+                "Polar bear"
+            ],
+            [
+                "Giraffe"
+            ],
+            [
+                "The Blue Whale"
+            ],
+            [
+                "The Blue Whale"
+            ]
+        ],
+        [
+            [
+                "Which planet is the smallest in our solar system?"
+            ],
+            [
+                "Venus"
+            ],
+            [
+                "Mercury"
+            ],
+            [
+                "Earth"
+            ],
+            [
+                "Mars"
+            ],
+            [
+                "Mercury"
+            ]
+        ],
+        [
+            [
+                "Which famous scientist is known for his theory of relativity?"
+            ],
+            [
+                "Isaac Newton"
+            ],
+            [
+                "Stephen Hawking"
+            ],
+            [
+                "Albert Einstein"
+            ],
+            [
+                "Galileo Galilei"
+            ],
+            [
+                "Albert Einstein"
+            ]
+        ],
+        [
+            [
+                "What kind of gas do plants absorb from the atmosphere during photosynthesis?"
+            ],
+            [
+                "Hydrogen"
+            ],
+            [
+                "Nitrogen"
+            ],
+            [
+                "Carbon dioxide"
+            ],
+            [
+                "Oxygen"
+            ],
+            [
+                "Carbon dioxide"
+            ]
+        ],
+        [
+            [
+                "What is the chemical symbol of the element oxygen?"
+            ],
+            [
+                "O"
+            ],
+            [
+                "Ox"
+            ],
+            [
+                "Oy"
+            ],
+            [
+                "Oz"
+            ],
+            [
+                "O"
+            ]
+        ],
+        [
+            [
+                "Which planet is known as the “Morning Star” and the “Evening Star” because it is visible at both sunrise and sunset?"
+            ],
+            [
+                "Saturn"
+            ],
+            [
+                "Mercury"
+            ],
+            [
+                "Mars"
+            ],
+            [
+                "Venus"
+            ],
+            [
+                "Venus"
+            ]
+        ],
+        [
+            [
+                "What is the largest organ in the human body?"
+            ],
+            [
+                "Heart"
+            ],
+            [
+                "Liver"
+            ],
+            [
+                "Skin"
+            ],
+            [
+                "Brain"
+            ],
+            [
+                "Skin"
+            ]
+        ],
+        [
+            [
+                "In which galaxy is our solar system located?"
+            ],
+            [
+                "The Milky Way"
+            ],
+            [
+                "Andromeda"
+            ],
+            [
+                "Triangle"
+            ],
+            [
+                "Sombrero"
+            ],
+            [
+                "The Milky Way"
+            ]
+        ],
+        [
+            [
+                "What is the chemical symbol of the element gold?"
+            ],
+            [
+                "Ag"
+            ],
+            [
+                "Au"
+            ],
+            [
+                "Ge"
+            ],
+            [
+                "Go"
+            ],
+            [
+                "Au"
+            ]
+        ],
+        [
+            [
+                "What is the name of a doctor specializing in the treatment of the heart?"
+            ],
+            [
+                "Ophthalmologist"
+            ],
+            [
+                "Cardiologist"
+            ],
+            [
+                "Gynecologist"
+            ],
+            [
+                "Oncologist"
+            ],
+            [
+                "Cardiologist"
+            ]
+        ],
+        [
+            [
+                "Who was America's first president?"
+            ],
+            [
+                "Abraham Lincoln"
+            ],
+            [
+                "William Shakespeare"
+            ],
+            [
+                "Michael Myers"
+            ],
+            [
+                "George Washington"
+            ],
+            [
+                "George Washington"
+            ]
+        ],
+        [
+            [
+                "When do we celebrate Thanksgiving?"
+            ],
+            [
+                "Fourth Thursday of December"
+            ],
+            [
+                "Fourth Thursday in November"
+            ],
+            [
+                "Fourth Thursday of October"
+            ],
+            [
+                "Fourth Thursday in September"
+            ],
+            [
+                "Fourth Thursday in November"
+            ]
+        ],
+        [
+            [
+                "Which river is the longest in the world?"
+            ],
+            [
+                "Amazon"
+            ],
+            [
+                "Neil"
+            ],
+            [
+                "Yangtze"
+            ],
+            [
+                "Mississippi"
+            ],
+            [
+                "Nile"
+            ]
+        ],
+        [
+            [
+                "In what year did the Titanic sink?"
+            ],
+            [
+                "1912"
+            ],
+            [
+                "1905"
+            ],
+            [
+                "1915"
+            ],
+            [
+                "1920"
+            ],
+            [
+                "1912"
+            ]
+        ],
+        [
+            [
+                "In what year did the Apollo 11 moon landing take place?"
+            ],
+            [
+                "1975"
+            ],
+            [
+                "1972"
+            ],
+            [
+                "1965"
+            ],
+            [
+                "1969"
+            ],
+            [
+                "1969"
+            ]
+        ],
+        [
+            [
+                "What is the hardest natural substance known to man?"
+            ],
+            [
+                "Quartz"
+            ],
+            [
+                "Steel"
+            ],
+            [
+                "Diamond"
+            ],
+            [
+                "Graphite"
+            ],
+            [
+                "Diamond"
+            ]
+        ],
+        [
+            [
+                "What is the official currency in Japan?"
+            ],
+            [
+                "The Yen"
+            ],
+            [
+                "Out"
+            ],
+            [
+                "Ringgit"
+            ],
+            [
+                "Peso"
+            ],
+            [
+                "Yen"
+            ]
+        ],
+        [
+            [
+                "Which fashion designer is famous for the “little black dress”?"
+            ],
+            [
+                "Giorgio Armani"
+            ],
+            [
+                "Ralph Lauren"
+            ],
+            [
+                "Vera Wang"
+            ],
+            [
+                "Coco Chanel"
+            ],
+            [
+                "Coco Chanel"
+            ]
+        ],
+        [
+            [
+                "How many continents are there on Earth?"
+            ],
+            [
+                "4"
+            ],
+            [
+                "5"
+            ],
+            [
+                "6"
+            ],
+            [
+                "7"
+            ],
+            [
+                "7"
+            ]
+        ],
+        [
+            [
+                "Which fruit is known as the “king of fruits” and has a strong smell?"
+            ],
+            [
+                "Mango"
+            ],
+            [
+                "Durian"
+            ],
+            [
+                "Pineapple"
+            ],
+            [
+                "Jackfruit"
+            ],
+            [
+                "Durian"
+            ]
+        ],
+        [
+            [
+                "Which bird is the tallest in the world?"
+            ],
+            [
+                "Penguin"
+            ],
+            [
+                "Albatross"
+            ],
+            [
+                "Ostrich"
+            ],
+            [
+                "Pelican"
+            ],
+            [
+                "Ostrich"
+            ]
+        ],
+        [
+            [
+                "What is the chemical symbol of the element helium?"
+            ],
+            [
+                "Hn"
+            ],
+            [
+                "He"
+            ],
+            [
+                "Hm"
+            ],
+            [
+                "Hl"
+            ],
+            [
+                "He"
+            ]
+        ],
+        [
+            [
+                "What is the name of a cow-bison hybrid?"
+            ],
+            [
+                "The buffalo"
+            ],
+            [
+                "Mickey Mouse"
+            ],
+            [
+                "The Blue Whale"
+            ],
+            [
+                "Beefalo"
+            ],
+            [
+                "Beefalo"
+            ]
+        ],
+        [
+            [
+                "What is Chicago's famous nickname?"
+            ],
+            [
+                "The city that never sleeps"
+            ],
+            [
+                "Windy City"
+            ],
+            [
+                "The City of Freedom"
+            ],
+            [
+                "Valley of the Sun"
+            ],
+            [
+                "Windy City"
+            ]
+        ],
+        [
+            [
+                "Which of the following animals are bulletproof?"
+            ],
+            [
+                "Rhinoceros"
+            ],
+            [
+                "Crocodile"
+            ],
+            [
+                "Ironclad"
+            ],
+            [
+                "Snail"
+            ],
+            [
+                "Ironclad"
+            ]
+        ],
+        [
+            [
+                "Which of the following animals blush?"
+            ],
+            [
+                "Turkey"
+            ],
+            [
+                "Rabbit"
+            ],
+            [
+                "Fish"
+            ],
+            [
+                "Dog"
+            ],
+            [
+                "Turkey"
+            ]
+        ],
+        [
+            [
+                "Which country's flag was designed by a high school student?"
+            ],
+            [
+                "USA"
+            ],
+            [
+                "France"
+            ],
+            [
+                "Japan"
+            ],
+            [
+                "China"
+            ],
+            [
+                "USA"
+            ]
+        ],
+        [
+            [
+                "What year was the first iPhone released?"
+            ],
+            [
+                "2005"
+            ],
+            [
+                "2007"
+            ],
+            [
+                "2009"
+            ],
+            [
+                "2010"
+            ],
+            [
+                "2007"
+            ]
+        ],
+        [
+            [
+                "Who wrote the novel “To Kill a Mockingbird\"?"
+            ],
+            [
+                "Mark Twain"
+            ],
+            [
+                "Jane Austen"
+            ],
+            [
+                "by J.D. Salinger"
+            ],
+            [
+                "Harper Lee"
+            ],
+            [
+                "Harper Lee"
+            ]
+        ],
+        [
+            [
+                "What is the capital of Australia?"
+            ],
+            [
+                "Sydney"
+            ],
+            [
+                "Melbourne"
+            ],
+            [
+                "Canberra"
+            ],
+            [
+                "Perth"
+            ],
+            [
+                "Canberra"
+            ]
+        ],
+        [
+            [
+                "What is the highest mountain in the world?"
+            ],
+            [
+                "Kilimanjaro"
+            ],
+            [
+                "Everest"
+            ],
+            [
+                "K2"
+            ],
+            [
+                "Annapurna"
+            ],
+            [
+                "Everest"
+            ]
+        ],
+        [
+            [
+                "What are the five colors of the Olympic rings?"
+            ],
+            [
+                "Red, Yellow, Green, Blue, Black"
+            ],
+            [
+                "Red, Blue, Green, White, Black"
+            ],
+            [
+                "Red, Yellow, Green, Pink, Black"
+            ],
+            [
+                "Red, Yellow, Green, Blue, Gray"
+            ],
+            [
+                "Red, Yellow, Green, Blue, Black"
+            ]
+        ],
+        [
+            [
+                "Where was Jesus born?"
+            ],
+            [
+                "Jericho"
+            ],
+            [
+                "Machu Picchu"
+            ],
+            [
+                "Judea"
+            ],
+            [
+                "Bethlehem"
+            ],
+            [
+                "Bethlehem"
+            ]
+        ],
+        [
+            [
+                "What did God do on the seventh day of Creation?"
+            ],
+            [
+                "Rested"
+            ],
+            [
+                "Created the sky"
+            ],
+            [
+                "Created the ocean"
+            ],
+            [
+                "Created the light"
+            ],
+            [
+                "Rested"
+            ]
+        ],
+        [
+            [
+                "What is the name of the biblical place where Jesus was crucified?"
+            ],
+            [
+                "Nazareth"
+            ],
+            [
+                "Bethlehem"
+            ],
+            [
+                "Jerusalem"
+            ],
+            [
+                "Jericho"
+            ],
+            [
+                "Jerusalem"
+            ]
+        ],
+        [
+            [
+                "Who was the great king of Israel, famous for his wisdom and the construction of the first temple in Jerusalem?"
+            ],
+            [
+                "King Solomon"
+            ],
+            [
+                "King Saul"
+            ],
+            [
+                "King David"
+            ],
+            [
+                "King Ahab"
+            ],
+            [
+                "King Solomon"
+            ]
+        ],
+        [
+            [
+                "Who was Adam's wife?"
+            ],
+            [
+                "Magdalene"
+            ],
+            [
+                "Sarah"
+            ],
+            [
+                "Eve"
+            ],
+            [
+                "Maria"
+            ],
+            [
+                "Eva"
+            ]
+        ],
+        [
+            [
+                "What does Cointreau taste like?"
+            ],
+            [
+                "The Basilica"
+            ],
+            [
+                "Lemon"
+            ],
+            [
+                "Vanilla"
+            ],
+            [
+                "An orange"
+            ],
+            [
+                "An orange"
+            ]
+        ],
+        [
+            [
+                "What is the name of the bell of the clock of the Palace of Westminster in London?"
+            ],
+            [
+                "Big Ben"
+            ],
+            [
+                "Ironclad"
+            ],
+            [
+                "The calabash"
+            ],
+            [
+                "Mummy"
+            ],
+            [
+                "Big Ben"
+            ]
+        ],
+        [
+            [
+                "Who did Madonna kiss at the Video Music Awards in 2003?"
+            ],
+            [
+                "Jennifer Lopez and Shakira"
+            ],
+            [
+                "Britney Spears and Janet Jackson"
+            ],
+            [
+                "Britney Spears and Christina Aguilera"
+            ],
+            [
+                "Christina Aguilera and Kylie Minogue"
+            ],
+            [
+                "Britney Spears and Janet Jackson"
+            ]
+        ],
+        [
+            [
+                "Which soft drink was the first to be taken into space?"
+            ],
+            [
+                "Pepsi"
+            ],
+            [
+                "Fanta"
+            ],
+            [
+                "Coca-Cola"
+            ],
+            [
+                "Snap"
+            ],
+            [
+                "Coca-Cola"
+            ]
+        ],
+        [
+            [
+                "How much does Chewbacca's costume weigh?"
+            ],
+            [
+                "3.6 kg"
+            ],
+            [
+                "7.7 kg"
+            ],
+            [
+                "2.7 kg"
+            ],
+            [
+                "6.8 kg"
+            ],
+            [
+                "3.6 kg"
+            ]
+        ],
+        [
+            [
+                "Who wrote the famous diary while hiding from the Nazis in Amsterdam?"
+            ],
+            [
+                "Anne Frank"
+            ],
+            [
+                "Bridget Jones"
+            ],
+            [
+                "Marie Curie"
+            ],
+            [
+                "Helen Keller"
+            ],
+            [
+                "Anne Frank"
+            ]
+        ],
+        [
+            [
+                "What does the term “piano” mean?"
+            ],
+            [
+                "At a brisk pace"
+            ],
+            [
+                "At a gentle pace"
+            ],
+            [
+                "At a moderately slow pace"
+            ],
+            [
+                "At a fast pace"
+            ],
+            [
+                "At a gentle pace"
+            ]
+        ],
+        [
+            [
+                "Who wrote the epic poem “Paradise Lost?"
+            ],
+            [
+                "Henry James"
+            ],
+            [
+                "John Keats"
+            ],
+            [
+                "John Steinbeck"
+            ],
+            [
+                "John Milton"
+            ],
+            [
+                "John Milton"
+            ]
+        ],
+        [
+            [
+                "What is the strongest house in the Three Little Pigs made of?"
+            ],
+            [
+                "Brick"
+            ],
+            [
+                "Sticks"
+            ],
+            [
+                "Straw"
+            ],
+            [
+                "Bamboo"
+            ],
+            [
+                "Brick"
+            ]
+        ],
+        [
+            [
+                "What is the name of the little piece of plastic at the end of the shoelace?"
+            ],
+            [
+                "Line"
+            ],
+            [
+                "Case"
+            ],
+            [
+                "Lace"
+            ],
+            [
+                "Aglet"
+            ],
+            [
+                "Aglet"
+            ]
+        ],
+        [
+            [
+                "How long does an instant last?"
+            ],
+            [
+                "60 seconds"
+            ],
+            [
+                "90 seconds"
+            ],
+            [
+                "120 seconds"
+            ],
+            [
+                "180 seconds"
+            ],
+            [
+                "90 seconds"
+            ]
+        ],
+        [
+            [
+                "Which was the first toy that was advertised on television?"
+            ],
+            [
+                "Barbie"
+            ],
+            [
+                "Mr. Potato Head"
+            ],
+            [
+                "Oven with Light Baking"
+            ],
+            [
+                "Rocket Racer"
+            ],
+            [
+                "Mr. Potato Head"
+            ]
+        ],
+        [
+            [
+                "Which country did David Beckham play for?"
+            ],
+            [
+                "Spain"
+            ],
+            [
+                "Brazil"
+            ],
+            [
+                "USA"
+            ],
+            [
+                "England"
+            ],
+            [
+                "England"
+            ]
+        ],
+        [
+            [
+                "hich Disney character in the movie “The Little Mermaid” sings the song “Kiss the Girl\"?\r\nFlounder\r\nSebastian\r\nUrsula\r\nPrince Eric\r\nSebastia"
+            ],
+            [
+                "Камбала"
+            ],
+            [
+                "Себастьян"
+            ],
+            [
+                "Урсула"
+            ],
+            [
+                "Принц Эрик"
+            ],
+            [
+                "Себастьян"
+            ]
+        ],
+        [
+            [
+                "In which country is Prague located?"
+            ],
+            [
+                "Spain"
+            ],
+            [
+                "Brazil"
+            ],
+            [
+                "Czech"
+            ],
+            [
+                "England"
+            ],
+            [
+                "Czech"
+            ]
+        ]
+    ]
+}
