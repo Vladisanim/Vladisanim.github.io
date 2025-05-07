@@ -1,0 +1,610 @@
+{
+    "c2array": true,
+    "size": [
+        30,
+        6,
+        1
+    ],
+    "data": [
+        [
+            [
+                "How many elements are in the periodic table?"
+            ],
+            [
+                112
+            ],
+            [
+                118
+            ],
+            [
+                143
+            ],
+            [
+                120
+            ],
+            [
+                118
+            ]
+        ],
+        [
+            [
+                "In what approximate period does the Moon complete a complete revolution around the Earth?"
+            ],
+            [
+                "27 days"
+            ],
+            [
+                "7 days"
+            ],
+            [
+                "30 days"
+            ],
+            [
+                "365 days"
+            ],
+            [
+                "27 days"
+            ]
+        ],
+        [
+            [
+                "Which is the largest continent on Earth?"
+            ],
+            [
+                "Antarctica"
+            ],
+            [
+                "North America"
+            ],
+            [
+                "Eurasia"
+            ],
+            [
+                "South America"
+            ],
+            [
+                "Eurasia"
+            ]
+        ],
+        [
+            [
+                "What year was the movie \"Titanic\" released?"
+            ],
+            [
+                1997
+            ],
+            [
+                1998
+            ],
+            [
+                1999
+            ],
+            [
+                2000
+            ],
+            [
+                1997
+            ]
+        ],
+        [
+            [
+                "What substance does dry ice consist of in its solid form?"
+            ],
+            [
+                "Oxygen"
+            ],
+            [
+                "Ammonia"
+            ],
+            [
+                "Carbon dioxide"
+            ],
+            [
+                "Nitrogen"
+            ],
+            [
+                "Carbon dioxide"
+            ]
+        ],
+        [
+            [
+                "Who played Neo in The Matrix?"
+            ],
+            [
+                "Brad Pitt"
+            ],
+            [
+                "Tom Cruise"
+            ],
+            [
+                "Keanu Reeves"
+            ],
+            [
+                "Matthew McConaughey"
+            ],
+            [
+                "Keanu Reeves"
+            ]
+        ],
+        [
+            [
+                "In which state of the USA is Area 51 located?"
+            ],
+            [
+                "Arizona"
+            ],
+            [
+                "Nevada"
+            ],
+            [
+                "New Mexico"
+            ],
+            [
+                "Utah"
+            ],
+            [
+                "Nevada"
+            ]
+        ],
+        [
+            [
+                "Which country borders 14 countries and crosses 8 time zones?"
+            ],
+            [
+                "India"
+            ],
+            [
+                "SOUTH AFRICA"
+            ],
+            [
+                "China"
+            ],
+            [
+                "Russia"
+            ],
+            [
+                "Russia"
+            ]
+        ],
+        [
+            [
+                "Which of these colors is not used in the Google logo?"
+            ],
+            [
+                "Pink"
+            ],
+            [
+                "Yellow"
+            ],
+            [
+                "Blue"
+            ],
+            [
+                "Green"
+            ],
+            [
+                "Pink"
+            ]
+        ],
+        [
+            [
+                "Who is depicted on the US hundred dollar bill?"
+            ],
+            [
+                "George Washington"
+            ],
+            [
+                "Abraham Lincoln"
+            ],
+            [
+                "Benjamin Franklin"
+            ],
+            [
+                "Thomas Jefferson"
+            ],
+            [
+                "George Washington"
+            ]
+        ],
+        [
+            [
+                "How many colors are there in a rainbow?"
+            ],
+            [
+                5
+            ],
+            [
+                6
+            ],
+            [
+                7
+            ],
+            [
+                8
+            ],
+            [
+                7
+            ]
+        ],
+        [
+            [
+                "What is the name of South Korea's largest technology company?"
+            ],
+            [
+                "Samsung"
+            ],
+            [
+                "Hyundai"
+            ],
+            [
+                "LG Electronics"
+            ],
+            [
+                "Korea Electric Power Corporation"
+            ],
+            [
+                "Samsung"
+            ]
+        ],
+        [
+            [
+                "Which animal is associated with Ancient Egypt?"
+            ],
+            [
+                "Leo"
+            ],
+            [
+                "Cat"
+            ],
+            [
+                "Hummingbird"
+            ],
+            [
+                "Rabbit"
+            ],
+            [
+                "Cat"
+            ]
+        ],
+        [
+            [
+                "Which letter in Morse code is indicated by three dots?"
+            ],
+            [
+                "O"
+            ],
+            [
+                "S"
+            ],
+            [
+                "A"
+            ],
+            [
+                "C"
+            ],
+            [
+                "S"
+            ]
+        ],
+        [
+            [
+                "Which two planets in our solar system are known as \"ice giants\"?"
+            ],
+            [
+                "Neptune and Jupiter"
+            ],
+            [
+                "Uranus and Pluto"
+            ],
+            [
+                "Pluto and Jupiter"
+            ],
+            [
+                "Neptune and Uranus"
+            ],
+            [
+                "Neptune and Uranus"
+            ]
+        ],
+        [
+            [
+                "Who founded Microsoft?"
+            ],
+            [
+                "Bill Hader"
+            ],
+            [
+                "Bill Gates"
+            ],
+            [
+                "Mark Zuckerberg"
+            ],
+            [
+                "Steve Jobs"
+            ],
+            [
+                "Bill Gates"
+            ]
+        ],
+        [
+            [
+                "At what temperature in Fahrenheit does water freeze?"
+            ],
+            [
+                "0 degrees"
+            ],
+            [
+                "-10 degrees"
+            ],
+            [
+                "32 degrees"
+            ],
+            [
+                "40 degrees"
+            ],
+            [
+                "32 degrees"
+            ]
+        ],
+        [
+            [
+                "In what year did the collapse of the Soviet Union take place?"
+            ],
+            [
+                1956
+            ],
+            [
+                1980
+            ],
+            [
+                1991
+            ],
+            [
+                1992
+            ],
+            [
+                1991
+            ]
+        ],
+        [
+            [
+                "What is the name of the city where all the main characters of duck tales live?"
+            ],
+            [
+                "Wingford"
+            ],
+            [
+                "Tailspin"
+            ],
+            [
+                "Duckburg"
+            ],
+            [
+                "Duckwing"
+            ],
+            [
+                "Duckburg"
+            ]
+        ],
+        [
+            [
+                "What is the name of a process that sends one qubit of information using two bits of classical information?"
+            ],
+            [
+                "Quantum programming"
+            ],
+            [
+                "Quantum entanglement"
+            ],
+            [
+                "Ultra-dense coding"
+            ],
+            [
+                "Quantum teleportation"
+            ],
+            [
+                "Quantum teleportation"
+            ]
+        ],
+        [
+            [
+                "Who in Greek mythology is the queen of the kingdom of the dead?"
+            ],
+            [
+                "Pandora"
+            ],
+            [
+                "Persephone"
+            ],
+            [
+                "Jellyfish"
+            ],
+            [
+                "Elena"
+            ],
+            [
+                "Persephone"
+            ]
+        ],
+        [
+            [
+                "How many degrees are there in a circle?"
+            ],
+            [
+                360
+            ],
+            [
+                180
+            ],
+            [
+                150
+            ],
+            [
+                90
+            ],
+            [
+                360
+            ]
+        ],
+        [
+            [
+                "How many teeth should an adult have in his mouth?"
+            ],
+            [
+                35
+            ],
+            [
+                30
+            ],
+            [
+                42
+            ],
+            [
+                32
+            ],
+            [
+                32
+            ]
+        ],
+        [
+            [
+                "What was the code name for the German invasion of the Soviet Union during World War II?"
+            ],
+            [
+                "Operation Molotov"
+            ],
+            [
+                "An unthinkable operation"
+            ],
+            [
+                "Operation Barbarossa"
+            ],
+            [
+                "Operation Kaiserslacht"
+            ],
+            [
+                "Operation Barbarossa"
+            ]
+        ],
+        [
+            [
+                "Which snake is the deadliest?"
+            ],
+            [
+                "Black Mamba"
+            ],
+            [
+                "Python"
+            ],
+            [
+                "Cobra"
+            ],
+            [
+                "Tiger Snake"
+            ],
+            [
+                "Black Mamba"
+            ]
+        ],
+        [
+            [
+                "Which country produces the most coffee in the world?"
+            ],
+            [
+                "Colombia"
+            ],
+            [
+                "Indonesia"
+            ],
+            [
+                "Brazil"
+            ],
+            [
+                "Vietnam"
+            ],
+            [
+                "Brazil"
+            ]
+        ],
+        [
+            [
+                "What is the name of the bell of the clock of the Palace of Westminster in London?"
+            ],
+            [
+                "Mummy"
+            ],
+            [
+                "The calabash"
+            ],
+            [
+                "Big Ben"
+            ],
+            [
+                "Ironclad"
+            ],
+            [
+                "Big Ben"
+            ]
+        ],
+        [
+            [
+                "Which soft drink was the first to be taken into space?"
+            ],
+            [
+                "Pepsi"
+            ],
+            [
+                "Snap"
+            ],
+            [
+                "Fanta"
+            ],
+            [
+                "Coca-Cola"
+            ],
+            [
+                "Coca-Cola"
+            ]
+        ],
+        [
+            [
+                "What does the term “piano” mean?"
+            ],
+            [
+                "At a gentle pace"
+            ],
+            [
+                "At a brisk pace"
+            ],
+            [
+                "At a moderately slow pace"
+            ],
+            [
+                "At a fast pace"
+            ],
+            [
+                "At a gentle pace"
+            ]
+        ],
+        [
+            [
+                "What is the name of the little piece of plastic at the end of the shoelace?"
+            ],
+            [
+                "Line"
+            ],
+            [
+                "Case"
+            ],
+            [
+                "Lace"
+            ],
+            [
+                "Aglet"
+            ],
+            [
+                "Aglet"
+            ]
+        ]
+    ]
+}
