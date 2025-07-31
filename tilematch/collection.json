@@ -1,0 +1,112 @@
+{
+    "collections": [
+        {
+            "name": "Baby Dragons",
+            "totalCards": 8,
+            "collectedCards": 0,
+            "cards": [
+                { "name": "Ruby", "collected": 0 },
+                { "name": "Sunny", "collected": 0 },
+                { "name": "Frosty", "collected": 0 },
+                { "name": "Leafy", "collected": 0 },
+                { "name": "Shadow", "collected": 0 },
+                { "name": "Rosie", "collected": 0 },
+                { "name": "Amber", "collected": 0 },
+                { "name": "Flame", "collected": 0 }
+            ],
+            "completed": 0,
+            "reward": "gold200",
+            "rewardAnimation": "gold"
+        },
+		{
+            "name": "Magical Objects",
+            "totalCards": 9,
+            "collectedCards": 0,
+            "cards": [
+                { "name": "Orb", "collected": 0 },
+                { "name": "Tome", "collected": 0 },
+                { "name": "Wand", "collected": 0 },
+                { "name": "Mirror", "collected": 0 },
+                { "name": "Amulet", "collected": 0 },
+                { "name": "Cauldron", "collected": 0 },
+                { "name": "Ring", "collected": 0 },
+                { "name": "Lantern", "collected": 0 },
+				{ "name": "Crown", "collected": 0 }
+            ],
+            "completed": 0,
+            "reward": "gold200",
+            "rewardAnimation": "gold"
+        },
+        {
+            "name": "Wands",
+            "totalCards": 8,
+            "collectedCards": 0,
+            "cards": [
+                { "name": "Elderwood", "collected": 0 },
+                { "name": "Rowanheart", "collected": 0 },
+                { "name": "Oakthorn", "collected": 0 },
+                { "name": "Chestnutspire", "collected": 0 },
+                { "name": "Willowshade", "collected": 0 },
+                { "name": "Hawthorn", "collected": 0 },
+                { "name": "Blackthorn", "collected": 0 },
+                { "name": "Yewbright", "collected": 0 }
+            ],
+            "completed": 0,
+            "reward": "gold300",
+            "rewardAnimation": "gold"
+        },
+        {
+            "name": "Cursed Objects",
+            "totalCards": 7,
+            "collectedCards": 0,
+            "cards": [
+                { "name": "Bloodfang Dagger", "collected": 0 },
+                { "name": "Wailing Mirror", "collected": 0 },
+                { "name": "Doom Amulet", "collected": 0 },
+                { "name": "Cursed Grimoire", "collected": 0 },
+                { "name": "Veil of Shadows", "collected": 0 },
+                { "name": "Broken Crown", "collected": 0 },
+                { "name": "Phantom Lantern", "collected": 0 }
+            ],
+            "completed": 0,
+            "reward": "gold300",
+            "rewardAnimation": "gold"
+        },
+        {
+            "name": "Familiars",
+            "totalCards": 9,
+            "collectedCards": 0,
+            "cards": [
+                { "name": "Loyal Hound", "collected": 0 },
+                { "name": "Barn Owl", "collected": 0 },
+                { "name": "Tabby Cat", "collected": 0 },
+                { "name": "Rat", "collected": 0 },
+                { "name": "Squirrel", "collected": 0 },
+                { "name": "Pony", "collected": 0 },
+                { "name": "Tortoise", "collected": 0 },
+				{ "name": "Midnight Hound", "collected": 0 },
+				{ "name": "Golden Retriever", "collected": 0 }
+            ],
+            "completed": 0,
+            "reward": "gold300",
+            "rewardAnimation": "gold"
+        },	
+        {
+            "name": "Potions",
+            "totalCards": 7,
+            "collectedCards": 0,
+            "cards": [
+                { "name": "Healixir", "collected": 0 },
+                { "name": "Invisidraft", "collected": 0 },
+                { "name": "Fireguard", "collected": 0 },
+                { "name": "Frostbrew", "collected": 0 },
+                { "name": "Lifesap", "collected": 0 },
+                { "name": "Yellow Vial", "collected": 0 },
+                { "name": "Brown Mixture", "collected": 0 }
+            ],
+            "completed": 0,
+            "reward": "gold300",
+            "rewardAnimation": "gold"
+        }				
+    ]
+}
